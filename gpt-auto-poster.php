@@ -2,7 +2,7 @@
 /**
  * Plugin Name: GPT Auto Article Poster
  * Description: Automatically generate SEO-optimized blog posts using AI with internal linking and content refresh capabilities.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: GPT Auto Poster Team
  * License: GPL-2.0+
  * Requires PHP: 7.4
